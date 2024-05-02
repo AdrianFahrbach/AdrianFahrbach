@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hey there 👋
 
+I'm currently looking for a job, so let me know if you are hiring and working on cool stuff!
 <!--
 **AdrianFahrbach/AdrianFahrbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
